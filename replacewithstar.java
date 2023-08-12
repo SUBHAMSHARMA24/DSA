@@ -1,4 +1,4 @@
-public class repacewithstar {
+public class replacewithstar {
         //Using stack builder
         public static void repstar(String str, int label) {
             //Termination
